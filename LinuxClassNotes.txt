@@ -170,5 +170,10 @@ Example- mv saanvi seth (this will move saanvi to seth)
 · Usage: Used for creating and editing text files. Some use cases for nano are: 
 
 Quick text edits, editing configuration files, scripting, learning and teaching, and etc. 
+. nano ~/myscript.sh to edit my bash scripting
+.(./myscript.sh to view my scripting
+
+
+
 
  
