@@ -173,6 +173,12 @@ Quick text edits, editing configuration files, scripting, learning and teaching,
 . nano ~/myscript.sh to edit my bash scripting
 .(./myscript.sh to view my scripting
 
+dir also another command that is the older version of ls 
+its not color coded
+to give owner groups and other permissions to execute u say chmod 1
+and if you want to give all the permissions you will type chmod 7 
+
+
 
 
 
